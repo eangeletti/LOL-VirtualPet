@@ -64,9 +64,11 @@
     "LionWater-0": "Like the other creatures in your care, this animal needs WATER to survive and develop",
     "LionWater-1": "Connect the pipes of the same color with hoses, clicking on each of them",
 
-    "LionEvolved-0": "",    
+    "LionEvolved-0": "Good job! This little guy is turning into a ferocious beast. Keep it up until it's the fearsome animal of all",
+    "LionEvolved-1": "Keep taking care of the creatures in your care. You're doing great!", 
 
     "endgame-0": "Congratulations! You have completed the game by fully developing each of the creatures in your care. Well done!",
+    "endgame-1": "",
 
     "newGame": "New game",
     "continue": "Continue"    
@@ -136,9 +138,11 @@
     "LionWater-0": "Como las demás criaturas a tu cuidado, este animal necesita de AGUA para sobrevivir y desarrollarse",
     "LionWater-1": "Conecta con mangueras las cañerías del mismo color, haciendo click en cada una de ellas",
 
-    "LionEvolved-0": "",    
+    "LionEvolved-0": "¡Buen trabajo! Este pequeñe se está convirtiendo en una feroz bestia. Sigue así hasta que sea el animal más temible de todos",
+    "LionEvolved-1": "Continua cuidando de las criaturas a tu cargo ¡Lo estás haciendo muy bien!",
 
     "endgame-0": "¡Felicidades! Haz completado el juego desarrollando al máximo a cada una de las criaturas a tu cuidado. ¡Bien hecho!",
+    "endgame-1": "",
 
     "newGame": "Nueva partida",
     "continue": "Continuar"    
